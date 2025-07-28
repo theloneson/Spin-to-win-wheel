@@ -23,7 +23,7 @@ const Index = () => {
     <div 
       className="min-h-screen w-full relative overflow-hidden"
       style={{
-        backgroundImage: `url('/lovable-uploads/b9e13d1e-2884-4da5-aabd-d07c17c845d5.png')`,
+        backgroundImage: `url('/lovable-uploads/spin.jpg')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
